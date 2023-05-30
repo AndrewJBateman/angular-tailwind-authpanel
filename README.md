@@ -81,7 +81,7 @@
 ## :clipboard: Status & To-Do List
 
 * Status: Working.
-* To-Do:Fix `__webpack_require__(...).context is not a function``error when running Jasmine testing
+* To-Do:Fix `__webpack_require__(...).context is not a function` error when running Jasmine testing
 
 ## :clap: Inspiration
 
@@ -98,4 +98,4 @@
 
 ## :envelope: Contact
 
-* Repo created by [ABateman](https://github.com/AndrewJBateman), email: gomezbateman@yahoo.com
+* Repo created by [ABateman](https://github.com/AndrewJBateman), email: `gomezbateman@yahoo.com`
