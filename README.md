@@ -37,12 +37,12 @@
 
 ## :signal_strength: Technologies
 
-* [Angular framework v15](https://angular.io/)
+* [Angular framework v16](https://angular.io/)
 * [Webpack v5](https://webpack.js.org/) static module bundler for modern JavaScript applications.
 * [Tailwindcss v3](https://tailwindcss.com/) CSS framework
-* [postcss-loader v5](https://www.npmjs.com/package/postcss-loader) Loader to process CSS with PostCSS. Transformations that are applied to the source code of a module, to pre-process files as you import or “load” them.
+* [postcss-loader v7](https://www.npmjs.com/package/postcss-loader) Loader to process CSS with PostCSS. Transformations that are applied to the source code of a module, to pre-process files as you import or “load” them.
 * [postcss-scss v4](https://www.npmjs.com/package/postcss-scss) SCSS parser for PostCSS.
-* [ngx-build-plus v15](https://www.npmjs.com/package/ngx-build-plus) to extend the Angular CLI's default build behavior. Allows a partial custom webpack config. to be merged with the CLI's one.
+* [ngx-build-plus v16](https://www.npmjs.com/package/ngx-build-plus) to extend the Angular CLI's default build behavior. Allows a partial custom webpack config. to be merged with the CLI's one.
 
 ## :floppy_disk: Setup
 
@@ -75,13 +75,13 @@
 
 ## :cool: Features
 
-* Tailwindcss [sign-in form](https://tailwindui.com/components/application-ui/forms/sign-in-forms)] component simply copy-pasted into app.
+* Tailwindcss [sign-in form](https://tailwindui.com/components/application-ui/forms/sign-in-forms) component simply copy-pasted into app.
 * Build file is a compact 244kb thanks to Tailwind’s purge option (manually enabled in `tailwind.config.js`) that tree-shakes unused styles and optimizes the final build size.
 
 ## :clipboard: Status & To-Do List
 
 * Status: Working.
-* To-Do:Fix `__webpack_require__(...).context is not a function` error when running Jasmine testing
+* To-Do: Nothing
 
 ## :clap: Inspiration
 
@@ -91,6 +91,7 @@
 * [Trungk18.com: How to configure TailwindCSS with Angular and why you should use it](https://trungk18.com/experience/configure-tailwind-css-with-angular/)
 * [Angular Architects: article: Extending the Angular CLI’s build process without ejecting](https://www.angulararchitects.io/aktuelles/extending-the-angular-clis-build-process/)
 * [S. Dielmann: Microfrontend with Angular and Webpack Module Federation](https://www.steffendielmann.com/2021/05/07/microfrontend-with-angular-and-webpack-module-federation/)
+* [Stackoverflow: Karma Jasmine..Uncaught Error..](https://stackoverflow.com/questions/74546242/karma-jasmine-uncaught-typeerror-webpack-require-context-is-not-a-fu)
 
 ## :file_folder: License
 
